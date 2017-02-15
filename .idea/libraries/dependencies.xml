@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="dependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/org.osgi.core-4.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jersey-guava-2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/metrics-core-3.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jackson-core-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/javax.json-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/hk2-locator-2.3.0-b10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/joda-time-2.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/guava-16.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/hk2-utils-2.3.0-b10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/HdrHistogram-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/netty-transport-4.0.33.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/slf4j-simple-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/cassandrajdbc1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/persistence-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/snappy-java-1.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/javax.inject-2.3.0-b10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jersey-core-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/osgi-resource-locator-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/cassandra-driver-mapping-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jaxb-api-2.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jersey-container-servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/aopalliance-repackaged-2.3.0-b10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/cassandra-driver-core-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/netty-handler-4.0.33.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/lz4-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/netty-codec-4.0.33.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jersey-container-servlet-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jersey-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jersey-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/netty-common-4.0.33.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jackson-databind-2.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jersey-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jersey-media-multipart-2.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/netty-buffer-4.0.33.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/cassandra-driver-extras-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/asm-debug-all-5.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/hk2-api-2.3.0-b10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../warehouse/dependencies/jackson-annotations-2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
